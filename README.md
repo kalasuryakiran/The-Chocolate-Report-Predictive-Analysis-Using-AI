@@ -85,6 +85,6 @@ All located inside the `images/` folder.
 
 outputimage:-
 
-<p align="center">
-  <img src="Chocolate Report/images/outut.png" alt="Dashboard Overview" width="80%">
-</p>
+![Q4 Dashboard](Chocolate Report/images/output.png)
+
+
