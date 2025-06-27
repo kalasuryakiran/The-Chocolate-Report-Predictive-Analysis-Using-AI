@@ -85,6 +85,6 @@ All located inside the `images/` folder.
 
 outputimage:-
 
-![Q4 Dashboard](Chocolate Report/images/output.png)
+![ChocolateReport](output.png)
 
 
