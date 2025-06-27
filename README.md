@@ -86,5 +86,5 @@ All located inside the `images/` folder.
 outputimage:-
 
 <p align="center">
-  <img src="images/outut.png" alt="Dashboard Overview" width="80%">
+  <img src="Chocolate Report/images/outut.png" alt="Dashboard Overview" width="80%">
 </p>
